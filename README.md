@@ -1,6 +1,7 @@
 # Intro
 
 **komstory34@gmail.com*
+
 **AND-TS repository는 안드로이드 앱 Todays_snack을 위해 제작되었습니다.*
 
 Root dir의 snack.txt파일은 최근의 간식 정보를 가지고 있으며,
