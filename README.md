@@ -13,8 +13,7 @@ txt 폴더에는 2015년 06월 부터 지금까지의 간식 정보가 저장되
 
 # Typing rule
 
-Todays_snack은 "_"를 " "로 인식합니다.
-snack.txt 파일은 이에 기초하여 작성됩니다.
+Todays_snack은 "_"를 " "로 인식하며, snack.txt 파일은 이를 기초로 작성됩니다.
 
 
 # Release
