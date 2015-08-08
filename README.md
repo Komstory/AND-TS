@@ -13,18 +13,13 @@ txt 폴더에는 2015년 6월부터 지금까지의 간식 정보가 저장되�
 
 # How to use
 
-[앱 다운로드](https://raw.githubusercontent.com/komst/AND-TS/master/snack.txt)
+>[앱 다운로드](https://raw.githubusercontent.com/komst/AND-TS/master/snack.txt)
 
 1. 지난 달의 snack.txt가 저장되어 있다면 앱을 실행할 때나 새로고침할 때 이를 알려줍니다.
 2. 알림 시각 설정은 원하는 시각에서 1분 전으로 설정하는 것을 권장합니다.
 3. 다운로드 설정에서 snack.txt 파일의 업데이트 링크를 변경할 수 있습니다.
 
 **기본 다운로드(업데이트) 주소 : https://raw.githubusercontent.com/komst/AND-TS/master/snack.txt*
-
-
-# Typing rule
-
-Todays_snack은 "_"를 " "로 인식하며, snack.txt 파일은 이를 기초로 작성됩니다.
 
 
 # Release
@@ -71,6 +66,16 @@ Todays_snack은 "_"를 " "로 인식하며, snack.txt 파일은 이를 기초로
   - 리스트 뷰 사용
   - Android SD - Root dir의 snack.txt 파일 읽기
 
+
+# For developer
+
+Todays_snack은 "_"를 " "로 인식하며, snack.txt 파일은 이를 기초로 작성됩니다.
+
+Github Repository를 업데이트 저장소로 사용하는 것을 권장합니다.
+
+드롭박스를 업데이트 주소로 사용할 경우 txt파일의 공유 주소에서 마지막 dl값을 0에서 1로 변경한 후 알려주세요.
+
+N 드라이브, 구글 드라이브는 ...
 
 # License
 ...
