@@ -10,6 +10,8 @@ Todays_snack은 이 파일을 통해 간식 정보를 업데이트 합니다.
 
 txt 폴더에는 2015년 06월 부터 지금까지의 간식 정보가 저장되어 있습니다.
 
+**Default Download(Update) Link : https://raw.githubusercontent.com/komst/AND-TS/master/snack.txt*
+
 
 # Typing rule
 
@@ -22,6 +24,7 @@ Todays_snack은 "_"를 " "로 인식하며, snack.txt 파일은 이를 기초로
 
   - 리부팅 시 알람기능 작동안되던 문제 수정
   - snack.txt 자동 업데이트 구현
+  - 다운로드 링크 변경 설정 추가
   - 자동 스크롤 기능 구현
 
 
