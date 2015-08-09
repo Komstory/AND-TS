@@ -24,7 +24,7 @@ dev 폴더는 snack.txt파일을 쉽게 제작하기 위한 툴이 저장되어 
     
 #### * presnack.txt
 
-  presnack.txt 파일은 utf-8로 인코딩 되어야 합니다.
+  presnack.txt 파일은 UTF-8로 인코딩 되어야 합니다.
   
   presnack.txt의
   
