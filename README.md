@@ -67,6 +67,8 @@ txt 폴더에는 2015년 6월부터 지금까지의 간식 정보가 저장되�
 
 # For developer
 
+*snack.txt는 UTF-8로 인코딩 되어야 합니다.*
+
 Todays_snack은 "_"를 " "로 인식하며, snack.txt 파일은 이를 기초로 작성됩니다.
 
 snack.txt 파일의 첫 줄은 몇 월인지와 개발자(?)가 알리고 싶은 정보를 작성합니다.
