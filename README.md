@@ -69,7 +69,7 @@ txt 폴더에는 2015년 6월부터 지금까지의 간식 정보가 저장되�
 
 *snack.txt는 UTF-8로 인코딩 되어야 합니다.*
 
-[SnackGen](https://github.com/komst/AND-TS/tree/master/dev)을 이용하는 것을 추천합니다.
+*[SnackGen](https://github.com/komst/AND-TS/tree/master/dev)을 이용하는 것을 추천합니다.
 
 Todays_snack은 "_"를 " "로 인식하며, snack.txt 파일은 이를 기초로 작성됩니다.
 
@@ -88,7 +88,7 @@ ex) 2015년 8월 snack.txt 파일의 경우
 
 ```
 
-Github Repository를 업데이트 저장소로 사용하는 것을 권장합니다.
+Github Repository를 업데이트 저장소로 사용하는 것을 추천합니다.
 
 드롭박스를 업데이트 주소로 사용할 경우 txt파일의 공유 주소에서 마지막 dl값을 0에서 1로 변경한 후 알려주세요.
 
