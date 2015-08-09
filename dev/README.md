@@ -1,7 +1,3 @@
-# Intro
-
-dev 폴더는 snack.txt파일을 쉽게 제작하기 위한 툴이 저장되어 있습니다.
-
 # Welcome, Developer
 
 #### * SnackGen
