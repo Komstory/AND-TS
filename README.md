@@ -13,7 +13,7 @@ txt 폴더에는 2015년 6월부터 지금까지의 간식 정보가 저장되�
 
 # How to use
 
->[앱 다운로드](https://raw.githubusercontent.com/komst/AND-TS/master/release/Todays_snack_1-4.apk)
+>[앱 다운로드](https://raw.githubusercontent.com/komst/AND-TS/master/release/Todays_snack.apk)
 
 1. 지난 달의 snack.txt가 저장되어 있다면 앱을 실행할 때나 새로고침할 때 이를 알려줍니다.
 2. 알림 시각 설정은 원하는 시각에서 1분 전으로 설정하는 것을 권장합니다.
@@ -91,6 +91,3 @@ Github Repository를 업데이트 저장소로 사용하는 것을 권장합니�
 드롭박스를 업데이트 주소로 사용할 경우 txt파일의 공유 주소에서 마지막 dl값을 0에서 1로 변경한 후 알려주세요.
 
 N 드라이브, 구글 드라이브는 ...
-
-# License
-...
