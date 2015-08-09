@@ -13,7 +13,7 @@ txt 폴더에는 2015년 6월부터 지금까지의 간식 정보가 저장되�
 
 # How to use
 
->[앱 다운로드](https://raw.githubusercontent.com/komst/AND-TS/master/release/Todays_snack.apk)
+>[앱 다운로드](https://raw.githubusercontent.com/komst/AND-TS/master/app/Todays_snack.apk)
 
 1. 지난 달의 snack.txt가 저장되어 있다면 앱을 실행할 때나 새로고침할 때 이를 알려줍니다.
 2. 알림 시각 설정은 원하는 시각에서 1분 전으로 설정하는 것을 추천합니다.
@@ -68,6 +68,8 @@ txt 폴더에는 2015년 6월부터 지금까지의 간식 정보가 저장되�
 # For developer
 
 *snack.txt는 UTF-8로 인코딩 되어야 합니다.*
+
+[SnackGen](https://github.com/komst/AND-TS/tree/master/dev)을 이용하는 것을 추천합니다.
 
 Todays_snack은 "_"를 " "로 인식하며, snack.txt 파일은 이를 기초로 작성됩니다.
 
