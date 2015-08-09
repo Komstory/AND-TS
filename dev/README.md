@@ -12,7 +12,7 @@ dev 폴더는 snack.txt파일을 쉽게 제작하기 위한 툴이 저장되어 
   
   1. SnackGen.class 파일을 [다운로드](https://raw.githubusercontent.com/komst/AND-TS/master/dev/SnackGen.class) 합니다.
   
-  2. presnack.txt 파일을 작성합니다.
+  2. presnack.txt 파일을 [작성](https://github.com/komst/AND-TS/blob/master/dev/README.md#-presnacktxt)합니다.
   
   3. Cmd에서 아래 명령어를 입력합니다.
   
