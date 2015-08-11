@@ -10,22 +10,30 @@
   
   2. presnack.txt 파일을 [작성](https://github.com/komst/AND-TS/blob/master/dev/README.md#-presnacktxt)합니다.
   
+    *파일 이름이 presnack.txt 일 필요는 없습니다.
+  
   3. Cmd에서 아래 명령어를 입력합니다.
   
   ```
   java SnackGen
   ```
   
+    *파일 이름이 presnack.txt 가 아니면 다음 명령어를 입력합니다.
+  
+    *ex) 파일 이름이 pre.txt일 경우
+  ```
+  java SnackGen pre.txt
+  ```
+  
   4. snack.txt 파일이 생성됩니다.
     
 #### * presnack.txt
 
-  presnack.txt 파일은 UTF-8로 인코딩 되어야 합니다.
+  presnack.txt 파일은 ANSI로 인코딩 되어야 합니다. - 윈도우 기본 메모장에서 작성하고 저장하면 됩니다.
   
-  첫 줄은 월 정보를 입력합니다.
+  첫 줄은 해당 연도를 입력합니다.
   
-  두 번째 줄은 해당 달의 1일의 요일을 입력합니다.
-  월요일 : 0, 화요일 : 1, 수요일 : 2, 목요일 : 3, 금요일 : 4, 토요일 : 5, 일요일 : 6
+  두 번째 줄은 해당 달을 입력합니다.
   
   세 번째 줄에는 앱 실행시 보일 문구를 입력합니다. 비워도 됩니다.
   
@@ -35,10 +43,12 @@
    ex) 2015년 8월
     
   ```
+  2015
   8
-  5
   
   간식없음
   간식없음
+  ...
+  맛있는 간식(...)
   ...
   ```
