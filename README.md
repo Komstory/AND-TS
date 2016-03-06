@@ -2,25 +2,32 @@
 
 **komstory34@gmail.com*
 
-**AND-TS repository는 안드로이드 앱 Todays_snack을 위해 제작되었습니다.*
+**AND-TS repository는 안드로이드 앱 DSHSnack을 위해 제작되었습니다.*
 
 snack.txt파일에는 최근의 간식 정보가 저장되어 있으며,
 
-Todays_snack은 이 파일을 통해 간식 정보를 업데이트 합니다.
+DSHSnack은 이 파일을 통해 간식 정보를 업데이트 합니다.
 
 txt 폴더에는 2015년 6월부터 지금까지의 간식 정보가 저장되어 있습니다.
+
+DSHSnack은 Ice cream Sandwich(sdk14) 부터 Marshmallow(sdk23) 까지 지원합니다.
 
 
 # How to use
 
->[앱 다운로드](https://raw.githubusercontent.com/komst/AND-TS/master/app/Todays_snack.apk)
+>[앱 다운로드](https://raw.githubusercontent.com/komst/AND-TS/master/app/DSHSnack-release.apk)
 
 1. 지난 달의 snack.txt가 저장되어 있다면 앱을 실행할 때나 새로고침할 때 이를 알려줍니다.
 2. 알림 시각 설정은 원하는 시각에서 1분 전으로 설정하는 것을 추천합니다.
-3. 다운로드 설정에서 snack.txt 파일의 업데이트 링크를 변경할 수 있습니다. (비워두면 기본값으로 설정됩니다.)
+3. 다운로드 설정에서 info.txt 파일의 업데이트 링크를 변경할 수 있습니다. (비워두면 기본값으로 설정됩니다.)
 
 
 # Release
+
+*2.0 Release (2016.03.06)*
+  - APP 이름 변경
+  - UI 오류 수정
+  - 기타 코드 개선 및 Marshmallow 지원
 
 *1.5 - UI BETA*
   - UI 수정
@@ -74,7 +81,7 @@ txt 폴더에는 2015년 6월부터 지금까지의 간식 정보가 저장되�
 
 *snack.txt는 UTF-8로 인코딩 되어야 합니다.*
 
-*[SnackGen](https://github.com/komst/AND-TS/tree/master/dev)을 이용하는 것을 추천합니다.
+*[SnackGen](https://github.com/komst/AND-TS/tree/master/dev)을 이용하는 것을 추천합니다.(deprecated)
 
 Todays_snack은 "_"를 " "로 인식하며, snack.txt 파일은 이를 기초로 작성됩니다.
 
