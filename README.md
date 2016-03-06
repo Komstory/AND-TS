@@ -21,6 +21,15 @@ DSHSnack은 Ice cream Sandwich(sdk14) 부터 Marshmallow(sdk23) 까지 지원합
 2. 알림 시각 설정은 원하는 시각에서 1분 전으로 설정하는 것을 추천합니다.
 3. 다운로드 설정에서 info.txt 파일의 업데이트 링크를 변경할 수 있습니다. (비워두면 기본값으로 설정됩니다.)
 
+# OpenSource
+
+앱에 사용된 이미지의 저작권은 freepik에 있음을 명시합니다.
+
+Sketchy kitchen pattern Free Vector
+
+http://www.freepik.com/free-vector/sketchy-kitchen-pattern_792937.htm#term=food&page=1&position=10
+
+<a href="http://www.freepik.com/free-photos-vectors/pattern">Pattern vector designed by Freepik</a>
 
 # Release
 
