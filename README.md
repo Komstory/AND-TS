@@ -15,7 +15,7 @@ DSHSnack은 Ice cream Sandwich(sdk15) 부터 Marshmallow(sdk23) 까지 지원합
 
 # How to use
 
->[앱 다운로드](https://raw.githubusercontent.com/komst/AND-TS/master/app/DSHSnack-latest-release.apk)
+>[앱 다운로드](https://raw.githubusercontent.com/komst/AND-TS/master/app/DSHSnack-ver2-latest-release.apk)
 
 1. 지난 달의 info.txt가 저장되어 있다면 앱을 실행할 때나 새로고침할 때 이를 알려줍니다.
 2. 알림 시각 설정은 원하는 시각에서 1분 전으로 설정하는 것을 추천합니다.
@@ -36,6 +36,7 @@ http://www.freepik.com/free-vector/sketchy-kitchen-pattern_792937.htm#term=food&
 *2.1 Release (2016.03.07)*
   - 코드 최적화
   - 아이콘 변경
+  - 마지막 날 간식 표시안되던 오류 수정
 
 *2.0 Release (2016.03.06)*
   - APP 이름 변경
