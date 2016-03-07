@@ -10,14 +10,14 @@ DSHSnack은 이 파일을 통해 간식 정보를 업데이트 합니다.
 
 txt 폴더에는 2015년 6월부터 지금까지의 간식 정보가 저장되어 있습니다.
 
-DSHSnack은 Ice cream Sandwich(sdk14) 부터 Marshmallow(sdk23) 까지 지원합니다.
+DSHSnack은 Ice cream Sandwich(sdk15) 부터 Marshmallow(sdk23) 까지 지원합니다.
 
 
 # How to use
 
->[앱 다운로드](https://raw.githubusercontent.com/komst/AND-TS/master/app/DSHSnack-ver2-release.apk)
+>[앱 다운로드](https://raw.githubusercontent.com/komst/AND-TS/master/app/DSHSnack-latest-release.apk)
 
-1. 지난 달의 snack.txt가 저장되어 있다면 앱을 실행할 때나 새로고침할 때 이를 알려줍니다.
+1. 지난 달의 info.txt가 저장되어 있다면 앱을 실행할 때나 새로고침할 때 이를 알려줍니다.
 2. 알림 시각 설정은 원하는 시각에서 1분 전으로 설정하는 것을 추천합니다.
 3. 다운로드 설정에서 info.txt 파일의 업데이트 링크를 변경할 수 있습니다. (비워두면 기본값으로 설정됩니다.)
 
@@ -32,6 +32,10 @@ http://www.freepik.com/free-vector/sketchy-kitchen-pattern_792937.htm#term=food&
 <a href="http://www.freepik.com/free-photos-vectors/pattern">Pattern vector designed by Freepik</a>
 
 # Release
+
+*2.1 Release (2016.03.07)*
+  - 코드 최적화
+  - 아이콘 변경
 
 *2.0 Release (2016.03.06)*
   - APP 이름 변경
@@ -90,21 +94,16 @@ http://www.freepik.com/free-vector/sketchy-kitchen-pattern_792937.htm#term=food&
 
 *snack.txt는 UTF-8로 인코딩 되어야 합니다.*
 
-*[SnackGen](https://github.com/komst/AND-TS/tree/master/dev)을 이용하는 것을 추천합니다.(deprecated)
+첫 줄은 해당 년도와 몇 월인지 작성합니다.
 
-Todays_snack은 "_"를 " "로 인식하며, snack.txt 파일은 이를 기초로 작성됩니다.
+둘째줄부터 간식 정보를 입력하면 됩니다.
 
-snack.txt 파일의 첫 줄은 몇 월인지와 개발자(?)가 알리고 싶은 정보를 작성합니다.
-
-알릴 정보가 없으면 몇 월인지만 작성하면 됩니다.
-
-ex) 2015년 8월 snack.txt 파일의 경우
+ex) 2015년 8월 info.txt 파일의 경우
 
 ```
-
-8 8월 간식 정보는 추후에 업데이트 됩니다.
-8 1 토 간식없음
-8 2 일 간식없음
+201508
+간식없음
+간식없음
 ...
 
 ```
@@ -114,3 +113,11 @@ Github Repository를 업데이트 저장소로 사용하는 것을 추천합니�
 드롭박스를 업데이트 주소로 사용할 경우 txt파일의 공유 주소에서 마지막 dl값을 0에서 1로 변경한 후 알려주세요.
 
 N 드라이브, 구글 드라이브는 ...
+
+~~*[SnackGen](https://github.com/komst/AND-TS/tree/master/dev)을 이용하는 것을 추천합니다.~~(deprecated)
+
+~~Todays_snack은 "_"를 " "로 인식하며, snack.txt 파일은 이를 기초로 작성됩니다.~~
+
+~~snack.txt 파일의 첫 줄은 몇 월인지와 개발자(?)가 알리고 싶은 정보를 작성합니다.~~
+
+~~알릴 정보가 없으면 몇 월인지만 작성하면 됩니다.~~
