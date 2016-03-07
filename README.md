@@ -4,7 +4,7 @@
 
 **AND-TS repository는 안드로이드 앱 DSHSnack을 위해 제작되었습니다.*
 
-snack.txt파일에는 최근의 간식 정보가 저장되어 있으며,
+20XX-XX.txt파일에는 최근의 간식 정보가 저장되어 있으며,
 
 DSHSnack은 이 파일을 통해 간식 정보를 업데이트 합니다.
 
