@@ -99,7 +99,7 @@ http://www.freepik.com/free-vector/sketchy-kitchen-pattern_792937.htm#term=food&
 
 # For developer
 
-*snack.txt는 UTF-8로 인코딩 되어야 합니다.*
+*20XX-XX.txt는 UTF-8로 인코딩 되어야 합니다.*
 
 첫 줄은 해당 년도와 몇 월인지 작성합니다.
 
