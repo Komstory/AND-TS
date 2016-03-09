@@ -34,7 +34,7 @@ http://www.freepik.com/free-vector/sketchy-kitchen-pattern_792937.htm#term=food&
 
 # Release
 
-*2.2 Release (2016.03.08)*
+*2.2 Release (2016.03.09)*
   - String 구문 변경
   - 위젯 새로고침 주기 변경
   - 터치 문제 개선 (위젯의 간식 정보를 터치하는 대신 날짜를 터치하여 오늘로 돌아가도록 수정)
