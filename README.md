@@ -12,15 +12,21 @@ txt 폴더에는 2015년 6월부터 지금까지의 간식 정보가 저장되�
 
 DSHSnack은 Ice cream Sandwich(sdk15) 부터 Marshmallow(sdk23) 까지 지원합니다.
 
-
 # How to use
 
->[앱 다운로드](https://raw.githubusercontent.com/komst/AND-TS/master/app/DSHSnack-ver22-latest-release.apk)
+>[앱 다운로드](https://raw.githubusercontent.com/komst/AND-TS/master/app/DSHSnack-ver23-latest-release.apk)
 
 1. 지난 달의 info.txt가 저장되어 있다면 앱을 실행할 때나 새로고침할 때 이를 알려줍니다.
 2. 설정에서 알림 기능 ON/OFF, 알림 시각 수정 등을 할 수 있습니다. (알림 시각 설정은 원하는 시각에서 1분 전으로 설정하는 것을 추천합니다.)
 3. 위젯에서 앞, 뒤 버튼을 통해 이전 간식을 불러올 수 있으며, 날짜를 터치하여(2.1 이하 버전은 간식 정보를 터치) 오늘의 간식 정보를 불러올 수 있습니다.
 4. 다운로드 설정에서 info.txt 파일의 업데이트 링크를 변경할 수 있습니다. (비워두면 기본값으로 설정됩니다.)
+
+# ScreenShot
+
+![alt tag](pic/Screenshot_2016-03-07-23-16-38.png)
+![alt tag](pic/Screenshot_2016-03-07-23-10-50.png)
+![alt tag](pic/Screenshot_2016-03-07-23-11-08.png)
+![alt tag](pic/Screenshot_2016-03-07-23-11-01.png)
 
 # OpenSource
 
@@ -33,6 +39,9 @@ http://www.freepik.com/free-vector/sketchy-kitchen-pattern_792937.htm#term=food&
 <a href="http://www.freepik.com/free-photos-vectors/pattern">Pattern vector designed by Freepik</a>
 
 # Release
+
+*2.3 Release (2016.03.10)*
+  - 2.2 버전 업데이트 중 발생한 위젯 오류 수정 
 
 *2.2 Release (2016.03.09)*
   - String 구문 변경
