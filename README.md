@@ -23,10 +23,7 @@ DSHSnack은 Ice cream Sandwich(sdk15) 부터 Marshmallow(sdk23) 까지 지원합
 
 # ScreenShot
 
-![alt tag](pic/Screenshot_2016-03-07-23-16-38.png)
-![alt tag](pic/Screenshot_2016-03-07-23-10-50.png)
-![alt tag](pic/Screenshot_2016-03-07-23-11-08.png)
-![alt tag](pic/Screenshot_2016-03-07-23-11-01.png)
+![alt tag](pic/Screenshot_2016-03-07-editted.png)
 
 # OpenSource
 
